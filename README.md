@@ -2,6 +2,8 @@
 
 Quick start:
 
+you can visit the site here: https://push-up-counter.netlify.app/
+
 ```
 $ npm install
 $ npm start
